@@ -7,7 +7,7 @@ Criar um ambiente interativo para alunos de Análise e Desenvolvimento de Sistem
 
 O servidor será um espaço colaborativo com canais para avisos, materiais de estudo, discussões do curso, jogos e streaming.
 
-**Canais**:
+### Canais:
 - 🚨 avisos, datas e coisas importantes.
 - 📁 links e downloads
 - 📚 Salas de estudos
@@ -31,8 +31,12 @@ O servidor será um espaço colaborativo com canais para avisos, materiais de es
 ### Penalidades
 O descumprimento de qualquer regras pode resultar em advertências, silenciamento, expulsão ou banimento do servidor.
 
+### Cargos
+- **Admin 👑** _Equipe de desenvolvimento do servidor_.
+- **Moderador ⭐** _Equipe que ajuda na moderação do servidor_.
+
+- **Veterano 🥇** _Membro que participa ativamente_.
+- **Calouro 🔰**  _Membro que acabou de entrar_.
 
 
-
-Admins<br>
-Italo, Gustavo
+_Desenvolvimento: Italo, Gustavo_.
