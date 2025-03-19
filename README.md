@@ -55,12 +55,12 @@ _O descumprimento de qualquer regras pode resultar em advertências, silenciamen
 - 🔰 **Calouro**  _Membro que acabou de entrar_. 
 <br>
 <br>
-<br>
-[O que é Discord?](https://blog.betrybe.com/ferramentas/discord-como-funciona/) <br>
-[Crie sua conta](https://ptb.discord.com/register) <br>
-[Entre no servidor](https://discord.com/channels/1341201848106877072/1351262538888777839)
 
-<br>
+[O que é Discord?](https://blog.betrybe.com/ferramentas/discord-como-funciona/) 
+
+[Crie sua conta](https://ptb.discord.com/register) 
+
+[Entre no servidor](https://discord.com/channels/1341201848106877072/1351262538888777839)
 
 _Desenvolvido por: Italo, Gustavo_. <br>
 _Turma: 251AM - Proz Educação._
