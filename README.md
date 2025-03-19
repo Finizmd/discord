@@ -3,9 +3,6 @@ _Turma: 251AM_
 
 Seja bem vindo a nossa comunidade no Discord. Esse é um espaço colaborativo para compartilharmos informações sobre tecnologia, estudar em grupo e compartilhar links de cursos, downloads, materiais.
 
-[Crie uma conta](https://ptb.discord.com/register) <br>
-[Entre no servidor](https://discord.com/channels/1341201848106877072/1351262538888777839)
-
 ### Canais importantes
 ---
 **Canais de texto:**
@@ -39,15 +36,15 @@ Seja bem vindo a nossa comunidade no Discord. Esse é um espaço colaborativo pa
 
 ### Regras
 ---
-1. Ter educação e respeito.
-2. Proibido discurso de ódio, preconceito, assédio ou discriminação.
-3. Proibido spam.
-4. Proibido compartilhar conteúdo sensível e pornográfico.
-5. Cada canal tem um propósito. Use o canal correto para cada tipo de assunto. 
-6. Proibido divulgar links de servidores ou conteúdo malicioso.
-7. Moderadores e administradores devem manter a ordem.
-8. Caso tenha problemas, entre em contado com um moderador.
-9. Não abuse da função de compartilhamento de tela e dos comandos de bots.
+1️⃣ Ter educação e respeito.<br>
+2️⃣ Proibido discurso de ódio, preconceito, assédio ou discriminação.<br>
+3️⃣ Proibido spam.<br>
+4️⃣ Proibido compartilhar conteúdo sensível e pornográfico.<br>
+5️⃣ Cada canal tem um propósito. Use o canal correto para cada tipo de assunto. <br>
+6️⃣ Proibido divulgar links de servidores ou conteúdo malicioso.<br>
+7️⃣ Moderadores e administradores devem manter a ordem.<br>
+8️⃣ Caso tenha problemas, entre em contado com um moderador.<br>
+9️⃣ Não abuse da função de compartilhamento de tela e dos comandos de bots.<br>
 <br>
 
 _O descumprimento de qualquer regras pode resultar em advertências, silenciamento, expulsão ou banimento do servidor._
@@ -59,5 +56,7 @@ _O descumprimento de qualquer regras pode resultar em advertências, silenciamen
 - 🥇 **Veterano** _Membro que participa ativamente_.
 - 🔰 **Calouro**  _Membro que acabou de entrar_.
 
+[Crie uma conta](https://ptb.discord.com/register) <br>
+[Entre no servidor](https://discord.com/channels/1341201848106877072/1351262538888777839)
 
 _Desenvolvido por: Italo, Gustavo_.
