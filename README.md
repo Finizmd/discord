@@ -1,6 +1,4 @@
 ## Nosso Servidor no Discord
-_Turma: 251AM_
-
 Seja bem vindo a nossa comunidade no Discord. Esse é um espaço colaborativo para compartilharmos informações sobre tecnologia, estudar em grupo e compartilhar links de cursos, downloads, materiais.
 
 ### Canais importantes
@@ -54,9 +52,15 @@ _O descumprimento de qualquer regras pode resultar em advertências, silenciamen
 - 👑 **Admin** _Equipe de desenvolvimento do servidor_.
 - ⭐ **Moderador** _Equipe que ajuda na moderação do servidor_.
 - 🥇 **Veterano** _Membro que participa ativamente_.
-- 🔰 **Calouro**  _Membro que acabou de entrar_.
-
-[Crie uma conta](https://ptb.discord.com/register) <br>
+- 🔰 **Calouro**  _Membro que acabou de entrar_. 
+<br>
+<br>
+<br>
+[O que é Discord?](https://blog.betrybe.com/ferramentas/discord-como-funciona/) <br>
+[Crie sua conta](https://ptb.discord.com/register) <br>
 [Entre no servidor](https://discord.com/channels/1341201848106877072/1351262538888777839)
 
-_Desenvolvido por: Italo, Gustavo_.
+<br>
+
+_Desenvolvido por: Italo, Gustavo_. <br>
+_Turma: 251AM - Proz Educação._
